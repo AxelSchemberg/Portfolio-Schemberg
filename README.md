@@ -4,7 +4,7 @@ Este es mi portfolio de proyectos de análisis de datos. Cada proyecto tiene su 
 
 ## 📊 Proyectos
 
-- [Análisis financiero con Excel - PF + Schemberg](https://github.com/AxelSchemberg/analisis-financiero-pf)
+- [Análisis financiero con Excel - PF + Schemberg](https://github.com/AxelSchemberg/Analisis-Financiero_PF)
   - Dashboard interactivo en Excel con segmentación por variables, automatización de cálculos y visualización.
   - Herramientas: Excel avanzado, tablas dinámicas, macros (VBA).
 
