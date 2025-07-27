@@ -1,15 +1,11 @@
-# 🛒 Dashboard de E-commerce – Excel Avanzado
+# Portfolio de Proyectos - Axel Schemberg
 
-Trabajo final del curso de Excel Avanzado (Coderhouse).
+Este es mi portfolio de proyectos de análisis de datos. Cada proyecto tiene su propio repositorio independiente con descripción, archivos y visualizaciones.
 
-Este proyecto presenta un panel de control interactivo para el análisis de ventas y rentabilidad en un e-commerce. Está desarrollado con funciones avanzadas de Excel, incluyendo:
+## 📊 Proyectos
 
-- Tablas dinámicas
-- Gráficos interactivos
-- Segmentación por filtros
-- Macros para automatizar la actualización de datos
-- KPIs clave para el negocio
+- [Análisis financiero con Excel - PF + Schemberg](https://github.com/AxelSchemberg/analisis-financiero-pf)
+  - Dashboard interactivo en Excel con segmentación por variables, automatización de cálculos y visualización.
+  - Herramientas: Excel avanzado, tablas dinámicas, macros (VBA).
 
-📂 **Archivo:** `PF + Schemberg.xlsm`  
-📥 [Descargar](./PF%20+%20Schemberg.xlsm)
-
+_(Más proyectos próximamente...)_
